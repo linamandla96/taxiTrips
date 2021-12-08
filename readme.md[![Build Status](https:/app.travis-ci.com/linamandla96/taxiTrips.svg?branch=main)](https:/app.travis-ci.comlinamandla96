@@ -96,4 +96,9 @@ Fork and clone this repository.
 * Do your own work - we will see if you are copying code.
 * Ask mentors if you need clarification - email them `mentors@projectcodex.co`.
 * Enjoy it!
+<<<<<<< HEAD:readme.md
 [![Build Status](https://app.travis-ci.com/linamandla96/taxiTrips.svg?branch=main)](https://app.travis-ci.com/linamandla96/taxiTrips)
+=======
+
+[![Build Status](https://app.travis-ci.com/linamandla96/taxiTrips.svg?branch=main)](https://app.travis-ci.com/linamandla96/taxiTrips)
+>>>>>>> c3db4b4a7b7756c87f921140af015c8ba306decc:readme.md[![Build Status](https:/app.travis-ci.com/linamandla96/taxiTrips.svg?branch=main)](https:/app.travis-ci.comlinamandla96
